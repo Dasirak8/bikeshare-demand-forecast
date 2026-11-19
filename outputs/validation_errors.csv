@@ -1,0 +1,21 @@
+fold,model,mae
+1,Yesterday,679.00000000
+1,Same weekday,898.28571429
+1,7-day mean,694.69217687
+1,Ridge,1017.43911088
+1,Shallow tree,1162.03689854
+2,Yesterday,814.52380952
+2,Same weekday,971.47619048
+2,7-day mean,762.45578231
+2,Ridge,876.36863320
+2,Shallow tree,859.14846433
+3,Yesterday,993.38095238
+3,Same weekday,1268.58333333
+3,7-day mean,893.98469388
+3,Ridge,840.48947072
+3,Shallow tree,1467.73312402
+4,Yesterday,707.47619048
+4,Same weekday,775.10714286
+4,7-day mean,706.51530612
+4,Ridge,642.69610764
+4,Shallow tree,724.83928571

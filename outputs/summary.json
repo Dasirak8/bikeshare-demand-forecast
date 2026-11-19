@@ -1,0 +1,26 @@
+{
+  "source_days": 731,
+  "modeling_days": 724,
+  "development_days": 604,
+  "test_days": 120,
+  "test_start": "2012-09-03",
+  "test_end": "2012-12-31",
+  "validation_mae": {
+    "Yesterday": 798.5952380952381,
+    "Same weekday": 978.3630952380952,
+    "7-day mean": 764.4119897959183,
+    "Ridge": 844.2483306101612,
+    "Shallow tree": 1053.439443151117
+  },
+  "selected": "7-day mean",
+  "benchmark": "Yesterday",
+  "test_mae_selected": 977.8035714285714,
+  "test_mae_benchmark": 918.8416666666667,
+  "test_signed_bias": 157.1416666666666,
+  "largest_error_day": "2012-10-29",
+  "independent_sql_check": {
+    "test_days": 120,
+    "7_day_mean_mae": 977.8035714285717,
+    "yesterday_mae": 918.8416666666667
+  }
+}
